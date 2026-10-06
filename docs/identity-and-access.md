@@ -20,3 +20,4 @@ user and group management, then connect an external identity provider if you hav
 | [LDAP](./iam/ldap.md) | Connect Keycloak to an LDAP directory |
 | [OpenID Connect](./iam/openid.md) | Connect Keycloak to an OpenID Connect identity provider |
 | [SAML](./iam/saml.md) | Connect Keycloak to a SAML identity provider |
+| [SAS Viya SSO](./iam/viya.md) | Sign in with SAS Viya credentials and run Viya compute as that user |
